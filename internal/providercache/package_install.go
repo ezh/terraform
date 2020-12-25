@@ -13,7 +13,7 @@ import (
 	"github.com/hashicorp/terraform/httpclient"
 	"github.com/hashicorp/terraform/internal/copy"
 	copydir "github.com/hashicorp/terraform/internal/copy"
-	"github.com/hashicorp/terraform/internal/getproviders"
+	"github.com/hashicorp/terraform/getproviders"
 )
 
 // We borrow the "unpack a zip file into a target directory" logic from

@@ -14,7 +14,7 @@ import (
 	"github.com/hashicorp/terraform/command"
 	"github.com/hashicorp/terraform/command/cliconfig"
 	"github.com/hashicorp/terraform/command/webbrowser"
-	"github.com/hashicorp/terraform/internal/getproviders"
+	"github.com/hashicorp/terraform/getproviders"
 	pluginDiscovery "github.com/hashicorp/terraform/plugin/discovery"
 )
 
