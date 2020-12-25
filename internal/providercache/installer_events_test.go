@@ -2,7 +2,7 @@ package providercache
 
 import (
 	"github.com/hashicorp/terraform/addrs"
-	"github.com/hashicorp/terraform/internal/getproviders"
+	"github.com/hashicorp/terraform/getproviders"
 )
 
 type testInstallerEventLogItem struct {

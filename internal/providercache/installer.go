@@ -11,7 +11,7 @@ import (
 	"github.com/hashicorp/terraform/addrs"
 	copydir "github.com/hashicorp/terraform/internal/copy"
 	"github.com/hashicorp/terraform/internal/depsfile"
-	"github.com/hashicorp/terraform/internal/getproviders"
+	"github.com/hashicorp/terraform/getproviders"
 )
 
 // Installer is the main type in this package, representing a provider installer

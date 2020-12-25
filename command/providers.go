@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/hashicorp/terraform/configs"
-	"github.com/hashicorp/terraform/internal/getproviders"
+	"github.com/hashicorp/terraform/getproviders"
 	"github.com/hashicorp/terraform/tfdiags"
 	"github.com/xlab/treeprint"
 )

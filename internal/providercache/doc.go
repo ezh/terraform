@@ -4,7 +4,7 @@
 // providers.
 //
 // It builds on the lower-level provider source functionality provided by
-// the internal/getproviders package, adding the additional behaviors around
+// the getproviders package, adding the additional behaviors around
 // obtaining the discovered providers and placing them in the cache
 // directories for subsequent use.
 package providercache
